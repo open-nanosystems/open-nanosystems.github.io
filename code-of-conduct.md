@@ -2,9 +2,9 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our community, a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+We as members, contributors, and leaders pledge to make participation in our community, The Open Nanosystems project, a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
-Everyone who participates in the Open Stober project activities is required to conform to this Code of Conduct. By participating, contributors indicate their acceptance of the procedures by which the Open Stober project core development team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
+Everyone who participates in the Open Nanosystems project activities is required to conform to this Code of Conduct. By participating, contributors indicate their acceptance of the procedures by which the Open Nanosystems project core development team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
 
 ## Our Standards
 
